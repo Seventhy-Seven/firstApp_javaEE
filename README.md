@@ -1,1 +1,1 @@
-firstApp_javaEE
+Простой сервлет в рамках курса "Основы веб-разработки на Spring Framework"
